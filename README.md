@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is the place where I try to share some of my projects but mostly are just for study propourses.
+I'm currently working as a Full-Stack .NET developer.
+
+<div style="display: flex; justify-content: space-around;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandropicoli&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropicoli&layout=compact&langs_count=7&theme=vue"/>
+</div>
+
 <!--
 **leandropicoli/leandropicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
